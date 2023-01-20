@@ -1,0 +1,19 @@
+body{
+margin: 0;
+padding: 0;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+background: #262626;
+}
+p{
+    font-size: 10px;
+    font: bold;
+    line-height: 10px;
+    background: url(bg1.jpg);
+    background-attachment: fixed;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, .0);
+
+}
